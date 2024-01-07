@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option csharp_namespace = "TestGrpcService";
+
+package category;
+//import "google/protobuf/empty.proto";
+
+service CategoryServiceGrpc {
+	//rpc GetCategories(google.protobuf.Empty) returns (Categories);
+	rpc GetCategories(Empty) returns (Categories);
+	rpc Add(CategroryAdd) returns (Empty);
+}
+message Empty{
+
+}
+message CategoryDetail {
+	int32 CategoryId = 1;
+    string CategoryName = 2;
+    string Description = 3;
+}
+
+message CategroryAdd {
+	string CategoryName = 1;
+	string Description = 2;
+}
+
+message Categories {
+	repeated CategoryDetail categories = 1;
+}

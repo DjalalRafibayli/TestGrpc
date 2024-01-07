@@ -1,0 +1,15 @@
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\bin\Debug\net7.0\EntityLayer.runtimeconfig.json
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\obj\Debug\net7.0\EntityLayer.genruntimeconfig.cache
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
+C:\Users\j.t.rafibayli\source\repos\TestGrpcService\EntityLayer\obj\Debug\net7.0\EntityLayer.sourcelink.json
